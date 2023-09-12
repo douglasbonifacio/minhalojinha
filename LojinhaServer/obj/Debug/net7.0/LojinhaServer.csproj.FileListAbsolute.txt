@@ -1,0 +1,7 @@
+C:\Angular\minhalojinha\LojinhaServer\obj\Debug\net7.0\LojinhaServer.csproj.AssemblyReference.cache
+C:\Angular\minhalojinha\LojinhaServer\obj\Debug\net7.0\LojinhaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\minhalojinha\LojinhaServer\obj\Debug\net7.0\LojinhaServer.AssemblyInfoInputs.cache
+C:\Angular\minhalojinha\LojinhaServer\obj\Debug\net7.0\LojinhaServer.AssemblyInfo.cs
+C:\Angular\minhalojinha\LojinhaServer\obj\Debug\net7.0\LojinhaServer.csproj.CoreCompileInputs.cache
+C:\Angular\minhalojinha\LojinhaServer\obj\Debug\net7.0\LojinhaServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Angular\minhalojinha\LojinhaServer\obj\Debug\net7.0\LojinhaServer.MvcApplicationPartsAssemblyInfo.cache

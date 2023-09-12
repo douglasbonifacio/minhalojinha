@@ -8,7 +8,7 @@ using System.Text.Json.Serialization;
 namespace LojinhaServer.Collections;
 [Table("products")]
 [BsonIgnoreExtraElements]
-    public class Produto
+    public class Product
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
